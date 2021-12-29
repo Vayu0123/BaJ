@@ -1,4 +1,5 @@
-#include<stdio.h>
+//¡÷ºÆ 1
+#include<stdio.h>	
 
 int main(void)
 {
